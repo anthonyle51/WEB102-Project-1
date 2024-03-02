@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='\src\assets\web102_project_1_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='\src\assets\.gif' title='Video Walkthrough' width='1000px' alt='Video Walkthrough' />
 
 GIF created with LiceCap
 
