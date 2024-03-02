@@ -26,9 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='\src\assets\.gif' title='Video Walkthrough' width='1000px' alt='Video Walkthrough' />
+<img src='\src\assets\walkthrough.gif' title='Video Walkthrough' width='1000px' alt='Video Walkthrough' />
 
-GIF created with LiceCap
+GIF created ezgif
 
 ## Notes
 None
